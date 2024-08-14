@@ -43,3 +43,7 @@ This course covers the fundamentals of deep learning for computer vision, focusi
 
 ## Have Questions?
 Email us at support@campusx.in
+
+## Reference 
+
+https://www.w3schools.com/colors/colors_rgb.asp
